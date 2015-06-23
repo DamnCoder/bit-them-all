@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scenario>
+	<gfx>
+		<static_gfx>
+			<screen id="screen">
+				<position x=" -13.8737602234 " y=" 81.0101699829 " z=" 374.186889648 " />
+				<orientation value=" 0.0 " />
+				<skins interval = "1500">
+					<skin id="default"/>
+					<skin id="empieza_juego"/>
+					<skin id="pregunta"/>
+					<skin id="sobera_wants_you"/>
+				</skins>
+			</screen>
+			<multimedia id="Suelo">
+				<color r="0.7" g="0.7" b="0.7" a="0.7" />
+				<position x=" -13.826010704 " y=" 0.146505057812 " z=" 137.133911133 " />
+				<orientation value=" 0.0 " />
+				<skins interval = "1000">
+					<skin id="default"/>
+					<skin id="01"/>
+					<skin id="02"/>
+					<skin id="03"/>
+					<skin id="04"/>
+				</skins>
+			</multimedia>
+			<multimedia id="PlataformaConcur">
+				<color r="0.7" g="0.7" b="0.7" a="0.7" />
+				<position x=" -22.6413211823 " y=" 20.3013057709 " z=" -26.3515892029 " />
+				<orientation value=" 0.0 " />
+				<skins interval = "1000">
+					<skin id="default"/>
+					<skin id="01"/>
+					<skin id="02"/>
+					<skin id="03"/>
+					<skin id="04"/>
+				</skins>
+			</multimedia>
+			<multimedia id="PlataformaPresen">
+				<color r="0.7" g="0.7" b="0.7" a="0.7" />
+				<position x=" -22.6413211823 " y=" 20.3013057709 " z=" -26.3515892029 " />
+				<orientation value=" 0.0 " />
+				<skins interval = "1000">
+					<skin id="default"/>
+					<skin id="01"/>
+					<skin id="02"/>
+					<skin id="03"/>
+					<skin id="04"/>
+				</skins>
+			</multimedia>
+
+			<static id="screen">
+				<position x=" -13.8737602234 " y=" 81.0101699829 " z=" 374.186889648 " />
+				<orientation value=" 0.0 " />
+			</static>
+
+			<static id="AdornosArriba">
+				<position x=" -13.9775047302 " y=" 172.843231201 " z=" 326.72064209 " />
+				<orientation value=" -0.0 " />
+			</static>
+			<static id="Atril1">
+				<position x=" -53.8538398743 " y=" 44.8039894104 " z=" 28.9134998322 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Atril2">
+				<position x=" -53.8538398743 " y=" 44.8039894104 " z=" 0.224609375 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Atril3">
+				<position x=" -53.8538398743 " y=" 44.8039894104 " z=" -29.5865058899 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Atril4">
+				<position x=" -53.8538398743 " y=" 44.8039894104 " z=" -60.8754005432 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Barandillas">
+				<position x=" -11.9163732529 " y=" 66.9106292725 " z=" -15.7701034546 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Cubos">
+				<position x=" -7.73100280762 " y=" 74.2012786865 " z=" 57.1140289307 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Escalones">
+				<position x=" -13.8573503494 " y=" 25.3557949066 " z=" -155.720458984 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="EscalonesPulpito">
+				<position x=" -22.6413211823 " y=" 20.3013057709 " z=" -26.3515892029 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Gradas">
+				<position x=" -13.8257904053 " y=" 119.694343567 " z=" -106.402709961 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="MarcoPantalla">
+				<position x=" -13.6561918259 " y=" 80.5358963013 " z=" 374.186889648 " />
+				<orientation value=" -8.65142220905e-06 " />
+			</static>
+			<static id="Palos">
+				<position x=" 16.4065856934 " y=" 61.6764526367 " z=" -15.5815343857 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="PalosBarandilla">
+				<position x=" -11.7236499786 " y=" 51.05052948 " z=" -15.6063842773 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="ParedPantalla">
+				<position x=" -13.7302732468 " y=" 121.696853638 " z=" 332.000305176 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="Paredes">
+				<position x=" -13.826010704 " y=" 126.653610229 " z=" 61.1637001038 " />
+				<orientation value=" 0.0 " />
+			</static>
+			<static id="marco_pantalla">
+				<position x=" -13.6561918259 " y=" 80.5358886719 " z=" 374.186889648 " />
+				<orientation value=" 2.02197440116e-22 " />
+			</static>
+			<static id="trull">
+				<position x=" -8.91530895233 " y=" 129.618804932 " z=" 4.95005559921 " />
+				<orientation value=" 0.0 " />
+			</static>
+		</static_gfx>
+		<animated_gfx>
+			<player id="player.003">
+				<position x=" -87.7699127197 " y=" 44.7820396423 " z=" -60.5304450989 " />
+				<orientation value=" 89.9999956743 " />
+			</player>
+			<player id="player.002">
+				<position x=" -87.7699127197 " y=" 44.7820396423 " z=" -30.5304450989 " />
+				<orientation value=" 89.9999956743 " />
+			</player>
+			<player id="player.001">
+				<position x=" -87.7699127197 " y=" 44.7820396423 " z=" -0.530445098877 " />
+				<orientation value=" 89.9999956743 " />
+			</player>
+			<player id="player">
+				<position x=" -87.7699127197 " y=" 44.7820396423 " z=" 29.4695549011 " />
+				<orientation value=" 89.9999956743 " />
+			</player>
+			<host id="host">
+				<position x=" 69.2705764771 " y=" 63.7566604614 " z=" -17.3086109161 " />
+				<orientation value=" 180.0 " />
+			</host>
+			<public id="public.044">
+				<position x=" 191.944763184 " y=" 49.0177536011 " z=" -125.999641418 " />
+				<orientation value=" -68.2094245991 " />
+			</public>
+			<public id="public.043">
+				<position x=" 175.667739868 " y=" 49.0177574158 " z=" -172.887619019 " />
+				<orientation value=" -57.493602282 " />
+			</public>
+			<public id="public.042">
+				<position x=" 146.169937134 " y=" 49.0177612305 " z=" -217.633361816 " />
+				<orientation value=" -44.1718578908 " />
+			</public>
+			<public id="public.041">
+				<position x=" 103.736846924 " y=" 49.0177688599 " z=" -249.758056641 " />
+				<orientation value=" -22.1322222601 " />
+			</public>
+			<public id="public.040">
+				<position x=" 59.7900161743 " y=" 49.0177764893 " z=" -271.831085205 " />
+				<orientation value=" -16.1051574685 " />
+			</public>
+			<public id="public.039">
+				<position x=" -80.873916626 " y=" 49.0178146362 " z=" -274.942657471 " />
+				<orientation value=" 19.7655412221 " />
+			</public>
+			<public id="public.038">
+				<position x=" -119.76612854 " y=" 49.0178222656 " z=" -255.753265381 " />
+				<orientation value=" 29.1944483241 " />
+			</public>
+			<public id="public.037">
+				<position x=" -156.288162231 " y=" 49.017829895 " z=" -232.137786865 " />
+				<orientation value=" 32.6571083465 " />
+			</public>
+			<public id="public.036">
+				<position x=" -182.043670654 " y=" 49.017829895 " z=" -202.870147705 " />
+				<orientation value=" 40.3969967517 " />
+			</public>
+			<public id="public.035">
+				<position x=" -204.459701538 " y=" 49.0178375244 " z=" -170.116958618 " />
+				<orientation value=" 56.0687940853 " />
+			</public>
+			<public id="public.034">
+				<position x=" -220.964645386 " y=" 49.0178413391 " z=" -132.395462036 " />
+				<orientation value=" 72.9417211656 " />
+			</public>
+			<public id="public.033">
+				<position x=" -228.046417236 " y=" 49.0178451538 " z=" -90.8188247681 " />
+				<orientation value=" 81.8484859188 " />
+			</public>
+			<public id="public.032">
+				<position x=" 172.728805542 " y=" 27.0577945709 " z=" -97.9004974365 " />
+				<orientation value=" -69.5081304283 " />
+			</public>
+			<public id="public.031">
+				<position x=" 160.335708618 " y=" 27.0577945709 " z=" -134.194580078 " />
+				<orientation value=" -60.92649634 " />
+			</public>
+			<public id="public.030">
+				<position x=" 138.205169678 " y=" 27.0577964783 " z=" -177.57043457 " />
+				<orientation value=" -48.3376278317 " />
+			</public>
+			<public id="public.029">
+				<position x=" 109.878074646 " y=" 27.0578022003 " z=" -209.438415527 " />
+				<orientation value=" -37.8996849307 " />
+			</public>
+			<public id="public.028">
+				<position x=" 74.4692077637 " y=" 27.0578098297 " z=" -236.8802948 " />
+				<orientation value=" -17.6636375899 " />
+			</public>
+			<public id="public.027">
+				<position x=" 32.8637924194 " y=" 27.0578193665 " z=" -251.929077148 " />
+				<orientation value=" -3.62910319472 " />
+			</public>
+			<public id="public.026">
+				<position x=" -64.5105895996 " y=" 27.0578460693 " z=" -252.814315796 " />
+				<orientation value=" 17.4619130754 " />
+			</public>
+			<public id="public.025">
+				<position x=" -97.2637939453 " y=" 27.0578575134 " z=" -238.650787354 " />
+				<orientation value=" 24.1033994866 " />
+			</public>
+			<public id="public.024">
+				<position x=" -129.131774902 " y=" 27.0578689575 " z=" -218.29069519 " />
+				<orientation value=" 29.1944483241 " />
+			</public>
+			<public id="public.023">
+				<position x=" -157.458862305 " y=" 27.0578784943 " z=" -193.504501343 " />
+				<orientation value=" 35.0452054426 " />
+			</public>
+			<public id="public.022">
+				<position x=" -178.704177856 " y=" 27.057888031 " z=" -160.751312256 " />
+				<orientation value=" 56.0687940853 " />
+			</public>
+			<public id="public.021">
+				<position x=" -192.867721558 " y=" 27.0578937531 " z=" -128.883346558 " />
+				<orientation value=" 72.9417211656 " />
+			</public>
+			<public id="public.020">
+				<position x=" -199.949493408 " y=" 27.0578994751 " z=" -90.8188247681 " />
+				<orientation value=" 81.8484859188 " />
+			</public>
+			<public id="public.019">
+				<position x=" -229.126205444 " y=" 49.0697937012 " z=" 166.780731201 " />
+				<orientation value=" 89.9999820139 " />
+			</public>
+			<public id="public.018">
+				<position x=" -229.126205444 " y=" 49.0697937012 " z=" 131.43661499 " />
+				<orientation value=" 89.9999820139 " />
+			</public>
+			<public id="public.017">
+				<position x=" -229.126205444 " y=" 49.0697937012 " z=" 91.5941925049 " />
+				<orientation value=" 89.9999820139 " />
+			</public>
+			<public id="public.016">
+				<position x=" -229.126205444 " y=" 49.0697937012 " z=" 57.5353393555 " />
+				<orientation value=" 89.9999820139 " />
+			</public>
+			<public id="public.015">
+				<position x=" -229.126205444 " y=" 49.0697937012 " z=" 23.4764614105 " />
+				<orientation value=" 89.9999820139 " />
+			</public>
+			<public id="public.014">
+				<position x=" 202.469146729 " y=" 49.0692901611 " z=" 151.366622925 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.013">
+				<position x=" 202.469161987 " y=" 49.0692901611 " z=" 117.307746887 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.012">
+				<position x=" 202.469161987 " y=" 49.0692901611 " z=" 83.2488937378 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.011">
+				<position x=" 202.469161987 " y=" 49.0692901611 " z=" 43.4064598083 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.010">
+				<position x=" 202.469177246 " y=" 49.0692901611 " z=" 8.06235790253 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.009">
+				<position x=" 177.918045044 " y=" 27.0579280853 " z=" 17.0539226532 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.008">
+				<position x=" 177.918029785 " y=" 27.0579280853 " z=" 52.398021698 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.007">
+				<position x=" 177.918029785 " y=" 27.0579280853 " z=" 92.2404632568 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.006">
+				<position x=" 177.918029785 " y=" 27.0579280853 " z=" 126.299316406 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.005">
+				<position x=" 177.918014526 " y=" 27.0579280853 " z=" 160.358184814 " />
+				<orientation value=" 269.999973362 " />
+			</public>
+			<public id="public.004">
+				<position x=" -202.605163574 " y=" 27.0579090118 " z=" 14.5225296021 " />
+				<orientation value=" 89.9999956743 " />
+			</public>
+			<public id="public.003">
+				<position x=" -202.605163574 " y=" 27.0579090118 " z=" 48.5813865662 " />
+				<orientation value=" 89.9999956743 " />
+			</public>
+			<public id="public.002">
+				<position x=" -202.605163574 " y=" 27.0579090118 " z=" 82.6402435303 " />
+				<orientation value=" 89.9999956743 " />
+			</public>
+			<public id="public.001">
+				<position x=" -202.605163574 " y=" 27.0579090118 " z=" 122.482681274 " />
+				<orientation value=" 89.9999956743 " />
+			</public>
+			<public id="public">
+				<position x=" -202.605163574 " y=" 27.0579090118 " z=" 157.826782227 " />
+				<orientation value=" 89.9999956743 " />
+			</public>
+		</animated_gfx>
+	</gfx>
+</scenario>

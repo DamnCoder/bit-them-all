@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<gfx_animated path="./data/export/gfxlib/animated/">
+	<animated name="Presentador"	foldername="host"	skin="default"		scale="7"/>
+	<animated 
+		name="Lucas"		
+		foldername="player"	
+		skin="default"		
+		scale="10"
+		description="Lucas es el hijo de Flint y Hinawa y el hermano gemelo de Claus. Vive en la Villa de Tazmily con su familia y su leal mascota Boney."
+	/>
+	<animated 
+		name="MC Chris"	
+		foldername="player"	
+		skin="chico_acid"	
+		scale="10"
+		description="Rapero americano, actor de voz, escritor y comediante improvisado."
+	/>
+	<animated 
+		name="Dr. Venture"	
+		foldername="player"	
+		skin="chico_gafas"	
+		scale="10"
+		description="Hijo del ya fallecido Jonas Venture, el mejor científico de su época y líder del equipo Venture original."
+	/>
+	<animated 
+		name="Vault Boy"	
+		foldername="player"	
+		skin="chico_refugio"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Mac"		
+		foldername="player"	
+		skin="chico_rojo"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Mike Haggar"	
+		foldername="player"	
+		skin="haggar"		
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Poo"		
+		foldername="player"	
+		skin="karateka"		
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Anne-Claire"	
+		foldername="player"	
+		skin="mujer_lila"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Ness"		
+		foldername="player"	
+		skin="ness"		
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Ramona Flowers"	
+		foldername="player"	
+		skin="ramona_flowers"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Scot Pilgrim"	
+		foldername="player"	
+		skin="scot_pilgrim"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Scully"		
+		foldername="player"	
+		skin="scully"		
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Wallace Wells"	
+		foldername="player"	
+		skin="sonriente"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Stormtrooper"	
+		foldername="player"	
+		skin="stormtrooper"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+	<animated 
+		name="Liz Sherman"	
+		foldername="player"	
+		skin="tia_macarra"	
+		scale="10"
+		description="Descripcion de personaje aqui"
+	/>
+</gfx_animated>

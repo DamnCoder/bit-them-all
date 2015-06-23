@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<YAOMEV_CONFIG>
+	
+	<!-- 
+	Recursos
+	-->
+	<resources path="./data/resources/">
+		<animated file="gfx_animated.xml"/>
+		<static file="gfx_static.xml"/>
+		<button file="gfx_buttons.xml"/>
+		<textures file="gfx_textures.xml"/>
+		<music file=""/>
+		<effects file=""/>
+		<dialog file=""/>
+	</resources>
+
+	<!-- Configuraciones de pantalla -->
+	<screen_config>
+		
+		<screen id="0">
+			<name	   >BTA ¿Quien sabe mas de informatica del mundo?</name>
+			<width	   >1024</width>
+			<height	   >768</height>
+			<bpp	   >16</bpp>
+			<fullscreen>0</fullscreen>
+		</screen>
+
+		<screen id="1">
+			<name	   >BTA ¿Quien sabe mas de informatica del mundo?</name>
+			<width	   >640</width>
+			<height	   >480</height>
+			<bpp	   >16</bpp>
+			<fullscreen>0</fullscreen>
+		</screen>
+
+	</screen_config>
+
+</YAOMEV_CONFIG>

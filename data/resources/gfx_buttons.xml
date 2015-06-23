@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<gfx_buttons path="./buttons/">
+	<button id="webstyle_aqua" 	font="arial.ttf" size="25"/>
+	<button id="dark_blue"		font="arial.ttf" size="20"/>
+	<button id="metal_l"		font="arial.ttf" size="20"/>
+	<button id="metal_s"		font="arial.ttf" size="20"/>
+	<button id="metal_xs"		font="arial.ttf" size="25"/>
+	<button id="outline_blue"	font="arial.ttf" size="20"/>
+	<button id="outline_yellow"	font="arial.ttf" size="20"/>
+	<button id="outline_red"	font="arial.ttf" size="20"/>
+	<button id="outline_green"	font="arial.ttf" size="20"/>	
+</gfx_buttons>

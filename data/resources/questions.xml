@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<questions>
+
+	<question id="0" correct="2" difficulty="0" type="text">
+		<question_text>FORTRAN es acronimo de...</question_text>
+		<answer>Formula Translating</answer>
+		<answer>Formula Translating System</answer>
+		<answer>Formula Transcription</answer>
+		<answer>Formula Translator</answer>
+	</question>
+
+	<question id="1" correct="3" difficulty="0" type="text">
+		<question_text>¿Quien desarrollo FORTRAN?</question_text>
+		<answer>Ada Lovelace</answer>
+		<answer>Bill Gates</answer>
+		<answer>John W. Backus</answer>
+		<answer>John G. Kemeny</answer>
+	</question>
+
+	<question id="2" correct="4" difficulty="0" type="text">
+		<question_text>Segun la leyenda, por que decidieron Kernighan y Ritchie crear C.</question_text>
+		<answer>Para crear el Space Invaders</answer>
+		<answer>Para demostrar lo buenos que eran</answer>
+		<answer>Para dar uso a un terminal PDP-3</answer>
+		<answer>Para jugar a Space Travel</answer>
+	</question>
+
+	<question id="3" correct="2" difficulty="0" type="text">
+		<question_text>¿Quien creo el lenguaje de programacion ADA?</question_text>
+		<answer>Ada Lovelace</answer>
+		<answer>Jean Ichbiah</answer>
+		<answer>Dennis Ritchie</answer>
+		<answer>John W. Backus</answer>
+	</question>
+
+	<question id="4" correct="3" difficulty="0" type="text">
+		<question_text>¿Cual de estos lenguajes no esta orientado a la programacion logica?</question_text>
+		<answer>LISP</answer>
+		<answer>PROLOG</answer>
+		<answer>PASCAL</answer>
+		<answer>Oz</answer>
+	</question>
+
+	<question id="5" correct="1" difficulty="0" type="text">
+		<question_text>¿Quien creo C++?</question_text>
+		<answer>Bjarne Stroustrup</answer>
+		<answer>Thomas E. Kurtz</answer>
+		<answer>Dennis M. Ritchie</answer>
+		<answer>Brian W. Kernighan</answer>
+	</question>
+<!--
+	<question id="6" correct="1" difficulty="0" type="text">
+		<question_text>¿Cual de estas cabeceras no pertence al estandar C ISO 9899:1999?</question_text>
+		<answer>cstlib.h</answer>
+		<answer>stdint.h</answer>
+		<answer>stdio.h</answer>
+		<answer>string.h</answer>
+	</question>
+-->
+	<question id="7" correct="2" difficulty="0" type="text">
+		<question_text>¿Quien invento las tarjetas perforadas?</question_text>
+		<answer>Blaise Pascal</answer>
+		<answer>Herman Hollerith</answer>
+		<answer>Gottfried Leibniz</answer>
+		<answer>John Napier</answer>
+	</question>
+
+	<question id="8" correct="4" difficulty="0" type="text">
+		<question_text>¿En el desarrollo de que lenguaje estuvo involucrada Grace M. Hopper?</question_text>
+		<answer>B</answer>
+		<answer>Python</answer>
+		<answer>Basic</answer>
+		<answer>COBOL</answer>
+	</question>
+<!--
+	<question id="9" correct="3" difficulty="0" type="text">
+		<question_text>Herman Hollerith fundo en 1896 la empresa Tabulating Machine Company, que en 1911 se fusiono con varias empresas dando lugar a lo que sería el germen de...</question_text>
+		<answer>Sun</answer>
+		<answer>Oracle</answer>
+		<answer>IBM</answer>
+		<answer>Microsoft</answer>
+	</question>
+-->
+	<question id="10" correct="4" difficulty="0" type="text">
+		<question_text>¿Quien es el actual inquilino de la Casa Blanca?</question_text>
+		<answer>George W. Bush</answer>
+		<answer>Herbert Hoover</answer>
+		<answer>Ronald Reagan</answer>
+		<answer>Barack H. Obama</answer>
+	</question>
+	<question id="11" correct="2" difficulty="0" type="text">
+		<question_text>¿Cual es el rio mas caudaloso del mundo?</question_text>
+		<answer>El Nilo</answer>
+		<answer>El Amazonas</answer>
+		<answer>El Ebro</answer>
+		<answer>El Eufrates</answer>
+	</question>
+	<question id="12" correct="3" difficulty="0" type="text">
+		<question_text>¿Cual es la religion mayoritaria en la India?</question_text>
+		<answer>Islam</answer>
+		<answer>Budismo</answer>
+		<answer>Hinduismo</answer>
+		<answer>Taoismo</answer>
+	</question>
+	<question id="13" correct="1" difficulty="0" type="text">
+		<question_text>Panama limita con...</question_text>
+		<answer>Costa Rica</answer>
+		<answer>Nicaragua</answer>
+		<answer>Venezuela</answer>
+		<answer>China</answer>
+	</question>
+	<question id="14" correct="3" difficulty="0" type="text">
+		<question_text>¿Que pais de la Union Europea tiene mas habitantes?</question_text>
+		<answer>España</answer>
+		<answer>Francia</answer>
+		<answer>Alemania</answer>
+		<answer>Italia</answer>
+	</question>
+	<question id="15" correct="2" difficulty="0" type="text">
+		<question_text>¿Que pais del mundo es segundo en numero de habitantes?</question_text>
+		<answer>China</answer>
+		<answer>India</answer>
+		<answer>Estados Unidos</answer>
+		<answer>Rusia</answer>
+	</question>
+	<question id="16" correct="4" difficulty="0" type="text">
+		<question_text>¿Como se llama la hija mayor de la familia Simpson?</question_text>
+		<answer>Maggie</answer>
+		<answer>Rachel</answer>
+		<answer>Asuka</answer>
+		<answer>Lisa</answer>
+	</question>
+	<question id="17" correct="2" difficulty="0" type="text">
+		<question_text>¿Cual es el Dios del Sol segun la mitologia egipcia?</question_text>
+		<answer>Tphenis</answer>
+		<answer>Ra</answer>
+		<answer>Seth</answer>
+		<answer>Anubis</answer>
+	</question>
+	<question id="18" correct="1" difficulty="0" type="text">
+		<question_text>¿En que fecha se celebraba el Nacimiento del Sol Invictus?</question_text>
+		<answer>Del 22 al 25 de Diciembre</answer>
+		<answer>Del 10 al 15 de Marzo</answer>
+		<answer>Del 22 al 25 de Enero</answer>
+		<answer>El 25 de Diciembre</answer>
+	</question>
+	<question id="19" correct="3" difficulty="0" type="text">
+		<question_text>¿En que museo esta la Venus de Milo?</question_text>
+		<answer>Britanico</answer>
+		<answer>Dresde</answer>
+		<answer>Louvre</answer>
+		<answer>Reina Sofia</answer>
+	</question>
+	<question id="20" correct="4" difficulty="0" type="text">
+		<question_text>¿Quien es el protagonista de Final Fantasy VII?</question_text>
+		<answer>Squall</answer>
+		<answer>Cid</answer>
+		<answer>Zidane</answer>
+		<answer>Cloud</answer>
+	</question>
+</questions>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<gfx_textures path="./data/export/textures/">
+
+	<!-- BOTONES-->
+	<texture id="webstyle_aqua_normal"	file="buttons/webstyle_aqua/webstyle_aqua_normal.tga" />
+	<texture id="webstyle_aqua_pressed"	file="buttons/webstyle_aqua/webstyle_aqua_pressed.tga" />
+	<texture id="webstyle_aqua_highlighted"	file="buttons/webstyle_aqua/webstyle_aqua_highlighted.tga" />
+	
+	<texture id="dark_blue_normal"		file="buttons/dark_blue/tb_dark_blue.png" />
+	<texture id="dark_blue_pressed"		file="buttons/dark_blue/tb_dark_blue.png" />
+	<texture id="dark_blue_highlighted"	file="buttons/dark_blue/tb_dark_blue_highlighted.png" />
+
+	<texture id="metal_l_normal"		file="buttons/metal/f_metal_large.png" />
+	<texture id="metal_l_pressed"		file="buttons/metal/f_metal_large.png" />
+	<texture id="metal_l_highlighted"	file="buttons/metal/f_metal_large.png" />
+	
+	<texture id="metal_s_normal"		file="buttons/metal/f_metal_small.png" />
+	<texture id="metal_s_pressed"		file="buttons/metal/f_metal_small.png" />
+	<texture id="metal_s_highlighted"	file="buttons/metal/f_metal_small.png" />
+
+	<texture id="metal_xs_normal"		file="buttons/metal/f_metal_xs.png" />
+	<texture id="metal_xs_pressed"		file="buttons/metal/f_metal_xs.png" />
+	<texture id="metal_xs_highlighted"	file="buttons/metal/f_metal_xs.png" />
+
+	<texture id="outline_blue_normal"	file="buttons/outlined/answer_color_blue.png" />
+	<texture id="outline_blue_pressed"	file="buttons/outlined/answer_color_blue_pressed.png" />
+	<texture id="outline_blue_highlighted"	file="buttons/outlined/answer_color_blue.png" />
+
+	<texture id="outline_green_normal"	file="buttons/outlined/answer_color_green.png" />
+	<texture id="outline_green_pressed"	file="buttons/outlined/answer_color_green_pressed.png" />
+	<texture id="outline_green_highlighted"	file="buttons/outlined/answer_color_green.png" />
+
+	<texture id="outline_red_normal"	file="buttons/outlined/answer_color_red.png" />
+	<texture id="outline_red_pressed"	file="buttons/outlined/answer_color_red_pressed.png" />
+	<texture id="outline_red_highlighted"	file="buttons/outlined/answer_color_red.png" />
+
+	<texture id="outline_yellow_normal"	 file="buttons/outlined/answer_color_yellow.png" />
+	<texture id="outline_yellow_pressed"	 file="buttons/outlined/answer_color_yellow_pressed.png" />
+	<texture id="outline_yellow_highlighted" file="buttons/outlined/answer_color_yellow.png" />
+
+	
+	<!-- FONDOS DE PANTALLA -->
+	<texture id="fondo_doc"			file="fondo_doc.png"/>
+	<texture id="fondo_uclm"		file="fondo_uclm.jpg"/>
+	<texture id="spotlight"			file="spotlight.png"/>
+	<texture id="transparent"		file="transparent.png"/>
+	<texture id="white_background"		file="white_background.png"/>
+	<texture id="menu_background"		file="menu_background.png"/>
+
+	<!-- ICONOS JUEGO -->
+	<texture id="triangulo"			file="triangulo.png"/>
+	<texture id="logo_esi_tv_small"		file="logo_esi_tv_small.png" />
+	
+	<!-- FRAMES -->	
+	<texture id="tb_square_grey"		file="frames/tb_square_grey.png" />
+	<texture id="tb_square_grey_medium"	file="frames/tb_square_grey_medium.png" />
+	<texture id="tb_rectangle_blue"		file="frames/tb_rectangle_blue.png" />
+	<texture id="tb_rectanble_green"	file="frames/tb_rectangle_green.png" />
+	<texture id="tb_rectangle_red"		file="frames/tb_rectangle_red.png" />
+	<texture id="tb_rectangle_yellow"	file="frames/tb_rectangle_yellow.png" />
+	<texture id="tb_dark_blue"		file="frames/tb_dark_blue.png" />
+	<texture id="glossy_frame_small"	file="frames/glossy_frame_small.png" />
+	<texture id="glossy_frame_large"	file="frames/glossy_frame_large.png" />
+	<texture id="interfaz_preguntas"	file="frames/tb_interfaz_preguntas.png"/>
+
+	<!-- ICONOS PERSONAJES -->
+	<texture id="default_icon"		file="icons/catalan_icon.png" />
+	<texture id="chico_gafas_icon"		file="icons/chico_gafas_icon.png" />
+	<texture id="chico_refugio_icon"	file="icons/chico_refugio_icon.png" />
+	<texture id="chico_rojo_icon"		file="icons/chico_rojo_icon.png" />
+	<texture id="haggar_icon"		file="icons/haggar_icon.png" />
+	<texture id="karateka_icon"		file="icons/karateka_icon.png" />
+	<texture id="mujer_lila_icon"		file="icons/mujer_lila_icon.png" />
+	<texture id="ness_icon"			file="icons/ness_icon.png" />
+	<texture id="ramona_flowers_icon"	file="icons/ramona_flowers_icon.png" />
+	<texture id="scot_pilgrim_icon"		file="icons/scot_pilgrim_icon.png" />
+	<texture id="scully_icon"		file="icons/scully_icon.png" />
+	<texture id="sonriente_icon"		file="icons/sonriente_icon.png" />
+	<texture id="stormtrooper_icon"		file="icons/stormtrooper_icon.png" />
+	<texture id="tia_macarra_icon"		file="icons/tia_macarra_icon.png" />
+	<texture id="chico_acid_icon"		file="icons/tia_macarra_icon.png" />
+
+</gfx_textures>
